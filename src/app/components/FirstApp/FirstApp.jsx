@@ -11,8 +11,8 @@ export default function FirstApp() {
       <ambientLight intensity={0.5} />
       {/* penumbra is the softness of the lighting*/}
       <spotLight position={[10, 10, 10]} angle={0.45} penumbra={0.1} />
-      <Box position={[-2, 0, 0]} />
-      <Box position={[2, -2, -2]} />
+      <Cube position={[-2, 0, 0]} />
+      <Cube position={[2, -2, -2]} />
       <Cube position={[0, 2, -4]} />
       <Cube position={[-4, 0, -6]} />
       <OrbitControls />
