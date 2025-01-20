@@ -1,5 +1,7 @@
 # Interactive 3D Cube Experience
 
+https://r3f-tndkiens-projects.vercel.app/
+
 My first 3D web application built with React Three Fiber (R3F) and Next.js, featuring cubes with floating dodecahedrons and animated text. It is a simple project to learn the basics of R3F and Three.js and looks a bit like a mess.
 
 ## Features
